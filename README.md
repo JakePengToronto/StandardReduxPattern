@@ -1,0 +1,2 @@
+# StandardReduxPattern
+Created with CodeSandbox
